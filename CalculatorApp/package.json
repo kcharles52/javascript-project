@@ -1,0 +1,15 @@
+{
+  "name": "calculatorapp",
+  "version": "1.0.0",
+  "description": "This is a simple calculator created using javascript. it only has basic funcitons",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "calculator",
+    "javascript"
+  ],
+  "author": "CK",
+  "license": "MIT"
+}
